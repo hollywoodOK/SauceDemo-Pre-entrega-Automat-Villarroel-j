@@ -1,7 +1,9 @@
-```text
-   venv/
-   __pycache__/
-   .pytest_cache/
-   *.pyc
-   reporte.html
-   .html
+# Ignorar el entorno virtual
+venv/
+ENV/
+env/
+
+# Ignorar la caché de Python y de Pytest
+__pycache__/
+*.pyc
+.pytest_cache/
