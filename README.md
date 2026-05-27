@@ -17,7 +17,7 @@ Validar los flujos críticos del negocio de la aplicación web de extremo a extr
 
 ## Instalación de Dependencias
 
-1. Asegúrate de tener un entorno virtual activo dentro de la carpeta raíz del proyecto:
+1. Tener un entorno virtual activo dentro de la carpeta raíz del proyecto:
    ```bash
    python -m venv venv
    # En Windows (PowerShell):
